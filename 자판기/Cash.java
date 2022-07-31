@@ -4,7 +4,7 @@ public class Cash implements Pay {
     @Override
     public boolean pay(Beverage beverage) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("\n현금을 투입하세요: ");
+        System.out.print("현금을 투입하세요. (숫자만 입력하세요): ");
         int amount = Integer.parseInt(sc.next());
 
         if (beverage.cost() > amount) {
