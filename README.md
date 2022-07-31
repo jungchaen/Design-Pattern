@@ -4,7 +4,7 @@
 
 SOLID 5원칙을 준수합니다.
 
-# 자판기
+# 1. 자판기
 <b> 사용 디자인 패턴 </b> 
 1. Decorato pattern : 음료 휘핑크림, 샷 추가
 2. Factory Method : 음료 객체 생성
