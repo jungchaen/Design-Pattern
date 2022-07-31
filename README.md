@@ -9,7 +9,6 @@ SOLID 5원칙을 준수합니다.
 1. Decorator : 음료 휘핑크림, 샷 추가
 2. Factory Method : 음료 객체 생성
 3. Strategy : 결제 방식(현금, 신용카드, 온라인 페이)
-4. Singleton : 결제 방식
 
 <b> 사용 알고리즘 </b>
 1. 그리디 알고리즘 : 거스름돈 
