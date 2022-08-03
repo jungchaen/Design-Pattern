@@ -19,7 +19,7 @@ SOLID 5원칙을 준수합니다.
 
 # 2. 인터프리터_사칙연산
 <b> 1. 사용 디자인 패턴 </b> 
-1. Interpreter : 후위표기식 연산
+1. Interpreter : 사칙연산, mini language
 
 <b> 2. 구현 단계 </b>
 1. infix를 postfix로 변환
