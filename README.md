@@ -15,3 +15,13 @@ SOLID 5원칙을 준수합니다.
 
 <b> 3. 클래스 다이어그램 </b>
 ![클래스 다이어그램](https://user-images.githubusercontent.com/50093044/182033586-375cccd8-ee20-4dfd-bfb5-da49016597fd.jpg)
+
+# 2. 인터프리터_사칙연산
+<b> 1. 사용 디자인 패턴 </b> 
+1. Interpreter : 후위표기식 연산
+
+<b> 2. 구현 단계 </b>
+1. infix를 postfix로 변환
+2. BNF 분석
+3. BNF를 추상 구문 트리로 만들기
+4. 인터프리터 패턴 사용 클래스 구현
