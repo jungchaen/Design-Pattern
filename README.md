@@ -26,3 +26,6 @@ SOLID 5원칙을 준수합니다.
 2. BNF 분석
 3. BNF를 추상 구문 트리로 만들기
 4. 인터프리터 패턴 사용 클래스 구현
+
+<b> 3. 클래스 다이어그램 </b>
+![인터프리터](https://user-images.githubusercontent.com/50093044/183231724-349ee2e5-79f5-4162-80cb-860beefafdea.jpg)
